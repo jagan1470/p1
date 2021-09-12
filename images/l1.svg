@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 199 139" width="199" height="139">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0.05L199 0.05L199 138.76L0 138.76L0 0.05Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #142754 } 
+	</style>
+	<g id="layer1">
+		<g id="g1034">
+			<g id="g1036">
+			</g>
+			<g id="g1060">
+				<g id="Clip-Path: g1058" clip-path="url(#cp1)">
+					<g id="g1058" style="opacity: 0.102">
+						<g id="g1044">
+							<path id="path1042" class="shp0" d="M77.33 94.37L11.23 94.37C5.03 94.37 0 89.01 0 82.41L0 12.01C0 5.41 5.03 0.05 11.23 0.05L77.33 0.05C83.53 0.05 88.56 5.41 88.56 12.01L88.56 82.41C88.56 89.01 83.53 94.37 77.33 94.37Z" />
+						</g>
+						<g id="g1048">
+							<path id="path1046" class="shp0" d="M0 78.83L44.8 78.83L30.21 138.76L0 138.76L0 78.83Z" />
+						</g>
+						<g id="g1052">
+							<path id="path1050" class="shp0" d="M187.77 94.37L121.67 94.37C115.47 94.37 110.44 89.01 110.44 82.41L110.44 12.01C110.44 5.41 115.47 0.05 121.67 0.05L187.77 0.05C193.97 0.05 199 5.41 199 12.01L199 82.41C199 89.01 193.97 94.37 187.77 94.37Z" />
+						</g>
+						<g id="g1056">
+							<path id="path1054" class="shp0" d="M110.44 78.83L155.24 78.83L140.65 138.76L110.44 138.76L110.44 78.83Z" />
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
